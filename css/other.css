@@ -1,0 +1,16 @@
+
+.brand {
+    color: #555555;
+    font-size: 28px;
+    font-weight: 200;
+    line-height: 1;
+	background: #b3d4fc;
+}
+
+.brand a {
+    color: #FFFFFF;
+    line-height: 38px !important;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-family: 'Open Sans',Arial,sans-serif;
+	text-decoration: none;
+}
