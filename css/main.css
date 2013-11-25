@@ -663,3 +663,11 @@ textarea {
   
 }
 
+.fb_wrap{
+    display: block;
+    position: relative;
+    z-index: 99999;
+    top: 150px;
+    left: 100px;
+
+}
