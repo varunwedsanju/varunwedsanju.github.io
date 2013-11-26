@@ -651,15 +651,15 @@ textarea {
 }
 
 .bt{
-  font-size: 48px;
-  font-family: "freight-sans-pro","Myriad Pro","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
+  font-size: 32px;
+  font-family: ,"Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
   color: #fff;
   position: absolute;
-  bottom: 0;
-  right: 0;
+  top: 50%;
+  left: 34%;
   width: 400px;
   text-align: center;
-  text-shadow: black 0.1em 0.1em 0.2em ;
+  text-shadow: black 0.15em 0.15em 0.25em ;
   
 }
 
